@@ -1,0 +1,6 @@
+[submodule "Ren-App"]
+	path = Ren-App
+	url = https://github.com/Ren-Kitahack-2024/Ren-App
+[submodule "Ren-Backend"]
+	path = Ren-Backend
+	url = https://github.com/Ren-Kitahack-2024/Ren-Backend
