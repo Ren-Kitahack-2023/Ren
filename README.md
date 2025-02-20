@@ -31,18 +31,18 @@ Ren is dedicated to fostering community-led environmental conservation efforts. 
 
 ## 🎥 Demo Video
 
-<a href="https://youtu.be/peDNWLrffIQ"><img src="./assets/img/team.jpg" /></a>
+<img src="./assets/img/team.jpg" />
 
 > [Demo Video](https://youtu.be/mnYzlIxVN4I?si=hUYf9hVyakEn33Cr)
 > [Google Slides](https://docs.google.com/presentation/d/1KD51l2Smz3Vg_TAuSgiEwv6Ur_HQJ-d1zIMmJcQMz-4/edit?usp=sharing)
 
 ## ⚙ Tech Stack
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOCN868Ksh00OMSRZJHpihg%2FArchitecture%3Ftype%3Ddesign%26mode%3Ddesign%26t%3DoONB37hW6k5lBAQy-1" allowfullscreen></iframe>
+https://www.figma.com/community/file/1474482319604370341
 
 ### Concept and Design
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsRJzesVDWOooZJEUlnqQRr%2FLow-and-High-Fidelity-Mockup%3Ftype%3Ddesign%26mode%3Ddesign%26t%3DoONB37hW6k5lBAQy-1" allowfullscreen></iframe>
+https://www.figma.com/community/file/1474482056114799524
 
 ## 🎯 UN's Sustainable Development Goals & Targets
 
